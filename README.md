@@ -1,1 +1,1 @@
-# VTT02
+This project has been prepared for TCP/IP Socket connection testing.
