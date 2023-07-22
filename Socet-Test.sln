@@ -1,7 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTT02", "VTT02\VTT02.csproj", "{170711D9-F5FD-4001-91A0-65FF0131C158}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socet", "VTT02\Socet.csproj", "{170711D9-F5FD-4001-91A0-65FF0131C158}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
